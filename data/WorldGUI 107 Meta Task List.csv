@@ -1,0 +1,108 @@
+Software,UID,Query
+PPT,001,Set the transitions of the second ppt to Push
+PPT,002,Set US SUBMARINE DAY in the first ppt to No. 40
+PPT,003,Middle align the text US SUBMARINE DAY in the first slide
+PPT,004,Swap the first ppt and the second ppt
+PPT,005,"Add a note to the second ppt, the content of the note is 123"
+PPT,006,Replace all 'you' with 'UUU'
+PPT,007,"Select all text and apply numbered list for them. Use '1, 2, 3' symbol of numbered list."
+PPT,008,Change the line space of the full text in second slide from single to 1.5 lines
+PPT,009,Insert a 3x3 table into the second slide
+PPT,010,"Insert a text box, type 'MONA LISA,' set the font size to 138, and set the font to Arial Black"
+PPT,011,Format the slide background with gradient fill
+Word,012,Make the text around the table
+Word,013,Replace all the 'Reading' in the text with 'RA'
+Word,014,Change the line space of the full text from single to 1.25 lines
+Word,015,Select all text and add bullets for them.
+Word,016,Change the whole document from one column to two columns
+Word,017,"Add headers to files, header content is 'AssistGUI'"
+Word,018,Insert a numeric page number at the top right. Style is plain number 1.
+Word,019,Change the picture in the original text to behind text
+Word,020,Add text boxes with 'AssistGUI' below 'The Importance of Reading' in the Word document.
+Word,021,"Add a 2x2 table at the end of the text, and the table content is blank"
+Word,022,"Add comment to the first line of the article, the content of comment is 'GUICritic'"
+Excel,023,Enter text 1234 into the cell of L2
+Excel,024,"Clear the contents of the cell of A18, but do not delete the cell"
+Excel,025,Delete the entire thirteenth line
+Excel,026,Copy the contents of B15 to L15
+Excel,027,Merge A1:K1
+Excel,028,Split A1
+Excel,029,Replace all '0' with 'zero'
+Excel,030,Filter out the data with a value of 2.51 in column B1 (Imu0_linear_accleration_x)
+Excel,031,Perform Group operation on the columns B1:D31
+Excel,032,Perform Format as Table operation on A1:K31 and randomly select a table format.
+Excel,033,Adjust column and row sizes to ensure all data is visible without any cutoffs
+Excel,034,Check for duplicate values in an Excel table
+Acrobat,035,"Edit PDF by removing selected text ""College of Design and Engineering""."
+Acrobat,036,Set the document to Two Page View from the View menu.
+Acrobat,037,Change the font of 'Department of Electrical and Computer Engineering ' to Arial.
+Acrobat,038,"Add a web link to ‘College of Design and Engineering’ by selecting it, defining the link appearance, entering the URL, and finalizing the link."
+Acrobat,039,Add a watermark by selecting 'Draft'.
+Acrobat,040,Move the second page to the front and delete the last page.
+Acrobat,041,Swap the first slide and the second slide.
+Acrobat,042,"Sign ""GUICritic"" in the ""Signature of Student""."
+Acrobat,043,"Sign ""GUICritic"" in the ""Signature of Student"" with ""signature.png""."
+Acrobat,044,Add an image 'car.jpg' to the document then edit the image by flipping vertically.
+Acrobat,045,Insert 'car.pdf' to the document before the first page.
+VSCode,046,Create a new javascript file named 'guicritic.js' and save it
+VSCode,047,Enable Auto Save in VSCode
+VSCode,048,Customize VS Code with a new color theme
+VSCode,049,Navigate to symbols within a file using the command palette
+VSCode,050,Navigate to line 13 in the code
+VSCode,051,Edit multiple instances of the same characters or words
+VSCode,052,Move a line of code
+VSCode,053,Open a new terminal session in VS Code and change the name and color
+VSCode,054,"Create new files inside project folder by going to editor, clicking the \""folder\"" icon and create the new files and rename them \""test.py\"" and \""test.html\""."
+VSCode,055,"Move the file \""test.html\"" outside the test folder by dragging and dropping it outside the \""test\"" folder box. Click \""move\"" to ensure the action."
+VSCode,056,"Properly adjust your font and tab sizes by going to the 'settings' option, and choose 'font size = 18'. Then enable 'bracket pairs' and change both editor settings to 'true'."
+SD,057,Use DALLE-3 to generate a frog riding a bicycle then give a top hat
+SD,058,"Save the motion preset for 'iceland_graphic.psd', replace it with 'Blue_Sky_Graphic.psd', and apply the preset motion to it."
+SD,059,"Generate a photo with prompt 'cute sleeping cat, outdoors, quaint porch, evening light'"
+SD,060,Following the instructional video to generate a photo of a girl with short brown hair with Counterfeit model
+SD,061,Create a 720*720 photo of dragon
+SD,062,Generate a photo of a girl with short brown hair with EasyNegative to improve the quality.
+SD,063,Generate a photo of a girl with short brown hair with ControlNet to improve the quality.
+YouTube,064,Change the theme of Youtube from Device Theme to Dark Theme
+YouTube,065,Set the video playback speed to 0.75 (https://www.youtube.com/watch?v=y7eizVOfksE)
+YouTube,066,Type 'i' to switch into mini player and click expand to recover.  (https://www.youtube.com/watch?v=y7eizVOfksE)
+YouTube,067,Play the video and goback to 0 and pause.  (https://www.youtube.com/watch?v=y7eizVOfksE)
+YouTube,068,Show the keyboard shortcuts of the Youtube.
+YouTube,069,"Loop the video, add to watch later and create a watch list 'what is love'."
+YouTube,070,Copy the url of the first video in playlist Awesome Videos and share. (go to the home tab)
+YouTube,071,Copy the video URL at current time.
+YouTube,072,Select Dramatic mood and download sound effects of kids playing in the audio library. (https://www.youtube.com/)
+YouTube,073,Search off season in the channel. (https://www.youtube.com/@LofiGirl)
+YouTube,074,Add rainbow effect on the progress bar. (https://www.youtube.com/watch?v=D6TSIHxNzfU)
+Web,075,Download a video from mixkit website.
+Web,076,Download a video from mixkit website.
+Web,077,Download a 1920x1080HD video about 'Dog catches a ball in a river' from 'mixkit.co'
+Web,078,Download a 1920x1080HD video about 'White cat lying among the grasses seen up close' from 'mixkit.co'
+Web,079,Go to the wikipedia and download the frontpage photo of keyword 'astronaut'
+Web,080,Go to the flickr website and download a 2K forest photo.
+Web,081,"Go to the flickr website and download a original size photo about butterfly, and save it with name 'butterfly.jpg'"
+Web,082,"Go to the flickr website and download a large size photo by searching 'newyork' keyword, and then find a photo of a woman in a red dress on the subway, and save it with name 'newyork.jpg'"
+Web,083,Go to the pexels website and download a photo by searching 'sky' (long photo is preferred)
+Web,084,Go to the pexels website and download a video by searching 'sunset'.
+File Explorer,085,Create two folder with name 'classes' and 'objects' in current folder
+File Explorer,086,Create a new folder with name 'Classes' in the currect folder
+File Explorer,087,Create a new folder with name 'Classes' in the currect folder
+File Explorer,088,Move 'beginner classes.txt' file and 'advanced classes.txt' file into the folder 'classes' one by one
+File Explorer,089,"drag to select 'intermediate classes.txt' file and 'kid classes.txt' file, then move them to folder 'classes'."
+File Explorer,090,change the name of the file in folder 'classes' to 'advanced.txt'
+File Explorer,091,Rename all the files by deleting 'class' from their names.
+File Explorer,092,move all the non-folder files into folder 'design'
+File Explorer,093,move all the non-folder files into folder 'marketing'
+File Explorer,094,delete all the files in the current folder.
+Settings,095,set chrome as default browser
+Settings,096,Switch default Windows mode to Dark
+Settings,097,Change the taskbar location on screen to Left.
+Settings,098,Turn on Storage Sense
+Settings,099,Disable the 'Power & Battery' Notifications
+Settings,100,Enable Autocorrect Misspelled Words
+Settings,101,Turn off letting ads use my personalid in Privacy Settings
+Settings,102,Turn off letting Website Access to My Language List in Privacy Settings
+Settings,103,Set the time zone with Arizona (UTC-07:00)
+Settings,104,Copy the Device Specifications under the system about
+Settings,105,Set mouse pointer size as 5
+Settings,106,Set the brightness under Dynamic Lighting with 70%
+Settings,107,Set the color of text cursor with pink

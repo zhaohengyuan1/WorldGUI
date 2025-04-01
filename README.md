@@ -53,21 +53,6 @@ Our codebases includes:
 
 See our [paper](https://arxiv.org/abs/2502.08047) for detail. Our GUI-Thinker is along with a newly curted Desktop GUI benchmark WorldGUI.
 
-## ✅ Todo List
-
-GUI-Thinker is continuously evolving! Here's what's coming:
-
-- 🖥️ **Lightweight Version**: Supporting a lightweight version specially design for Claude-3.5-Sonnet Computer Use without the GUI parser.
-
-- 👓 **OOTB Usage**: Supporting a user-frendly interface based on Gradio.
-
-- 📊 **Locally-running Models**: Supporting the ShowUI or UI-TARS as the Actor in our framework.
-
-- 🎨 **Huggingface Demo**: Developing online demo in Huggingface.
-
-Feel free to open issues or submit pull requests if you have suggestions. Our project is actively maintained, with new features and bug fixes released regularly. 🚀
-
-
 ## 🖥️ Demo of Computer Using
 
 Demo Video (The video has been sped up):
